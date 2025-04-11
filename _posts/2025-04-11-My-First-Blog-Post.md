@@ -1,4 +1,4 @@
-<title></title>
+<title>
 # My-First-Blog-Post
 2024-04-11
 
