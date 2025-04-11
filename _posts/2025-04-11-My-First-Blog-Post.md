@@ -1,4 +1,4 @@
-# My-First-Blog-Post
+# My First Blog Post
 2024-04-11
 
 Hi There!
